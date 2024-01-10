@@ -1,4 +1,4 @@
-##Controls
+#Controls
 
 - LEFT ARROW: Move left
 - RIGHT ARROW: Move right
