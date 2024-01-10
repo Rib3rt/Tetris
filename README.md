@@ -1,6 +1,6 @@
 # Tetris
 
-![gameplay](media/Tetris_C_Raylib.gif)
+![gameplay](Media/Tetris_C_Raylib.gif)
 
 A tetris-like game written in C using [Raylib](https://www.raylib.com/)
 
