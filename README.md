@@ -1,4 +1,8 @@
-#Controls
+# Tetris
+
+A tetris-like game written in C using [Raylib](https://www.raylib.com/)
+
+## Controls
 
 - LEFT ARROW: Move left
 - RIGHT ARROW: Move right
