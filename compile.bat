@@ -1,0 +1,1 @@
+clang -o .\Tetris.exe .\tetris.c .\tetromino.c .\stage.c .\tetromino_I.c .\tetromino_J.c .\tetromino_L.c .\tetromino_S.c .\tetromino_T.c .\tetromino_O.c .\tetromino_Z.c -l .\raylibdll
